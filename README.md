@@ -43,9 +43,13 @@ Offline-compatible setup
 # Example Topics
 
 AI in healthcare
+
 Quantum computing
+
 Autonomous vehicles
+
 Climate change technology
+
 Future of software engineering
 
 ---
